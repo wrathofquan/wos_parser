@@ -283,6 +283,12 @@ def extract_funding(elem):
             'funding_text': fund_text,
             'funding_agency': '; '.join(grant_list)}
 
+   # use this if Nonetype error occurs
+   # return {'wos_id': wos_id,
+            #'funding_text': fund_text,
+           # 'funding_agency': ';'.join(filter(None, grant_list))}
+   
+
 def extract_conferences(elem):
     """Extract list of conferences from given WoS element tree
     if no conferences exist, return None"""
