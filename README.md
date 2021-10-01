@@ -34,7 +34,7 @@ list of dictionary output.
 Clone the repository and install using `setup.py`
 
 ```bash
-$ git clone https://github.com/titipata/wos_parser
+$ git clone https://github.com/wrathofquan/wos_parser
 $ cd wos_parser
 $ python setup.py install
 ```
