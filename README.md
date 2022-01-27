@@ -39,11 +39,7 @@ $ cd wos_parser
 $ python setup.py install
 ```
 
-or via pip
 
-```bash
-$ pip install git+https://github.com/titipata/wos_parser.git
-```
 
 ## License
 
