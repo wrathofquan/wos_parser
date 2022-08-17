@@ -41,6 +41,4 @@ $ python setup.py install
 
 
 
-## License
 
-MIT License Copyright (c) 2016 Titipat Achakulvisut
